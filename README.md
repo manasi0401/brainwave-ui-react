@@ -5,25 +5,28 @@
 
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Features](#features)
+4.  [Quick Start](#quick-start)
+
+## <a name="introduction">Deployed Link</a>
+https://brainwave-ui-react.vercel.app/
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction"> Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - Vite
 - React.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
@@ -39,7 +42,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
